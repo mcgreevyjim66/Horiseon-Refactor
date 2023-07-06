@@ -9,8 +9,12 @@ An increasingly important consideration for businesses, web accessibility ensure
 
 To use the Horiseon Marketng Solution website, please vist <https://mcgreevyjim66.github.io/Horiseon-Refactor/>
 
-## Mock-up
+## Source
 
+My repo, is located at <https://https://github.com/mcgreevyjim66/Horiseon-Refactor>.
+There is source code located in the Horiseon-Refactor folder, as well as in the ./assets/images and ./assets/css folders.
+
+## Mock-up
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/Horiseon%20Refactor%20Screen%20shot.png)
 
